@@ -15,6 +15,7 @@ class _HomePageState extends State<HomePage> {
 
   int _currentIndex = 0;
   String _result = "";
+  String _resultAlt = "";
 
   @override
   Widget build(BuildContext context) {
